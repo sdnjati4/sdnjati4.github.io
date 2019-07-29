@@ -215,7 +215,7 @@ hr.socket {
 
 @media (min-width:500px) {
   .form-inline .cari {
-    width: 400px;
+    width: 340px;
     margin: auto;
   }
 
@@ -230,7 +230,7 @@ hr.socket {
 
 @media (min-width:768px) {
   .form-inline .cari {
-    width: 420px;
+    width: 360px;
   }
 
   #bg_s {
