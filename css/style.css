@@ -33,7 +33,7 @@ body {
 }
 
 .navbar .show .form-inline .cari {
-  width: 380px;
+  width: 360px;
 
 }
 
@@ -186,7 +186,7 @@ hr.socket {
 #bg_s {
   /* z-index: 999; */
   background-color: rgba(255, 255, 255, .5);
-  width: 500px;
+  width: 350px;
   margin: -300px auto;
   height: 65px;
   border-radius: 20px;
@@ -235,7 +235,7 @@ hr.socket {
 
   #bg_s {
     /* z-index: 999; */
-    width: 220px;
+    width: 200px;
     height: 60px;
     margin: 245px auto;
   }
