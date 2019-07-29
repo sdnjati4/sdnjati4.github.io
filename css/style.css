@@ -235,20 +235,20 @@ hr.socket {
 
   #bg_s {
     /* z-index: 999; */
-    width: 320px;
+    width: 220px;
     height: 60px;
     margin: 245px auto;
   }
 
   #bg_s h3 {
     padding-top: 7px;
-    font-size: 18px;
+    font-size: 14px;
   }
 }
 
 @media (min-width:360px){
   .form-inline .cari {
-    width: 280px;
+    width: 240px;
   }
 }
 
