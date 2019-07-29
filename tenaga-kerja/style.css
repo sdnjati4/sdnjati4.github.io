@@ -191,24 +191,25 @@ hr.socket {
 }
 
 .navbar .show .form-inline .cari {
-  width: 420px;
+  width: 303px;
 
 }
 
-@media (max-width:500px) {
+@media (min-width:460px) {
   .form-inline .cari {
-    width: 400px;
-    margin: auto;
+    width: 303px;
+  }
+}
+
+@media (min-width:360px) {
+  .form-inline .cari {
+    width: 303px;
   }
 
 
 }
 
 @media (max-width:768px) {
-  .form-inline .cari {
-    width: 420px;
-
-  }
 
   .post .post-thumbnail1 {
     margin: auto;
