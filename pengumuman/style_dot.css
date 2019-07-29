@@ -120,10 +120,7 @@ body {
     }
 }
 
-@media (max-width:768px) {
-    .form-inline .cari {
-        width: 303px;
-    }
+@media (min-width:460px) {
 
     .popup .popup-content {
         width: 85%;
@@ -141,6 +138,28 @@ body {
 
     .popup-main img {
         margin-left: 8px
+    }
+
+}
+
+@media (min-width:360px) {
+
+    .popup .popup-content {
+        width: 85%;
+    }
+
+    .popup-head h2 {
+        font-size: 18px;
+    }
+
+    .popup-main p {
+        font-size: 12px;
+
+        margin: auto 20px
+    }
+
+    .popup-main img {
+        margin-left: 6px
     }
 
 }
