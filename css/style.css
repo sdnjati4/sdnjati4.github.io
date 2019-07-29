@@ -213,15 +213,7 @@ hr.socket {
   }
 }
 
-@media (min-width:1360px) {
-  #gmbr {
-    max-width: 1360px;
-    width: 100%;
-    background-size: 1360px;
-  }
-}
-
-@media (max-width:500px) {
+@media (min-width:500px) {
   .form-inline .cari {
     width: 400px;
     margin: auto;
@@ -236,7 +228,7 @@ hr.socket {
 
 }
 
-@media (max-width:768px) {
+@media (min-width:768px) {
   .form-inline .cari {
     width: 420px;
   }
@@ -260,7 +252,7 @@ hr.socket {
   }
 }
 
-@media (min-width:660px){
+@media (min-width:460px){
   .form-inline .cari {
     width: 320px;
   }
